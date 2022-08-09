@@ -1,0 +1,23 @@
+#Front{
+    background-color: #DBAD67;
+}
+h1{
+    text-align: center;
+    color: #f25070;
+}
+.homer{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 500px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.name{
+    text-align: right;
+    font-weight: 600;
+}
